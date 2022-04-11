@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Carlos Alberto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://carlosvtorre.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://carlosvtorre.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch x</title>
+      <link>https://carlosvtorre.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlosvtorre.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola! quiero contar todo lo que he aprendido en este camino:
+ Aprendi a usar HTML También como darle estilos al formato en HTML con CSS Como usar Javascript para hacer que funcione La manera de conectarlos para que funcionen en conjunto Aprendi a hacer proyectos de Vue y Vuex en la terminal de Visual Studio Code Angular Azure  Gracias por leer</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollador de software</title>
       <link>https://carlosvtorre.github.io/my_launchx_blog/posts/intro/</link>
